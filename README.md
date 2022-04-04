@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grace
-- 👀 I’m interested in learning Frontend  technique.
+- 👀 I’m interested in learning all the web related skills.
 - 🌱 I’m currently learning Angular, Rxjs, Functional Programming.
 - 📫 How to reach me gswliang@gmail.com
 
